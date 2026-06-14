@@ -1,0 +1,82 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    line-height: 1.2;
+    box-sizing: border-box;
+
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #70453c;
+    display: flex;
+    justify-content: center;
+    max-width: 95%;
+    max-height: 95%;
+
+}
+
+#container{
+    width: 80%;
+    background-color: #67382F;
+    border: #412e26 solid 3px;
+    padding: 7px;
+}
+
+#fist_lebal {
+    color: #95b9cb;
+    padding: 5px;
+    border: solid 2px #512d26;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+    margin:10px 10px 10px 0px;
+    border: #3b3330 2.5px solid;
+}
+
+#pio{
+    color: #F4EBE0;
+    font-weight: bold;
+    font-size: 125%;
+    padding: 5px 2px 5px 2px;
+}
+
+ul{
+    list-style:none ;
+    color: #e56e7c;
+    font-size: 115%;
+    padding: 5px 2px 5px 2px;
+}
+
+
+#container-pio{
+    border: solid 2px #512d26;
+    padding: 5px;
+    margin: 10px 2px 15px 2px;
+    
+
+}
+
+span{color: #e9948e; font-weight: bold;}
+
+#end-para{
+    color: #DEDAD6;
+    border: solid 2px #512d26;
+    padding: 5px;
+    margin: 10px 2px 2px 2px;
+    font-size: 105%;
+}
+
+a{color: #ffffff;}
+
+.hr-class{
+    
+    border-width: 1px;
+    border-color: #292320;
+    border-style: solid;
+}
+
+
